@@ -1,1 +1,3 @@
-.clsspath
+.classpath
+.project/*
+.settings
