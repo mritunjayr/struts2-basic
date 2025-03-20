@@ -1,7 +1,6 @@
 package com.ibm.helloworld.action;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import com.ibm.helloworld.model.Person;
